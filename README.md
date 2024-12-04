@@ -1,5 +1,6 @@
 Note: You may need to brew install ffmpeg. 
 
+```
 pip install -r requirements.txt
 
 python count_words.py
@@ -22,4 +23,4 @@ Counting words per speaker...
 
 Word counts per speaker:
 spk_0: 10682 words
-
+```
